@@ -14,8 +14,17 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "691a75cdd3e8cb5b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,6 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8118d24655530ac",
-  "lastOpenFiles": []
+  "active": "abed3cdf9798cc39",
+  "lastOpenFiles": [
+    "AA Index.md",
+    "Untitled"
+  ]
 }
